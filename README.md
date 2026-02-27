@@ -1,2 +1,5 @@
-# Aula-1---Teste-Pr-tico
-Implementar, em HTML e CSS, o projeto visual disponível no Figma, transformando o layout em uma página web responsiva e organizada, utilizando boas práticas de estruturação de código e versionamento com GitHub.
+# Aula 1 - Fundamentos do Desenvolvimento Web
+Projeto desenvolvido como atividade prática de HTML e CSS, com base em um layout fornecido no Figma. O objetivo é reproduzir o design o mais fielmente possível, utilizando boas práticas de estruturação, estilização e versionamento com Git e GitHub.
+
+O layout do projeto foi fornecido via Figma e seguido como referência para cores, tipografia e organização dos elementos da página institucional da barbearia.
+link do projeto: https://www.figma.com/design/XEOQ5Ira4HDsQ5gmAEqj7A/-WEB--Aula-02
