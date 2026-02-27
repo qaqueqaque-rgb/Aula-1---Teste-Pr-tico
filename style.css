@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: #ffffff;
+  color: #555;
+  text-align: center;
+}
+
+.topo {
+  margin-top: 40px;
+}
+
+.imagem-topo {
+  max-width: 100%;
+  height: auto;
+}
+
+.conteudo {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.conteudo h1 {
+  font-size: 36px;
+  color: #000;
+  margin-bottom: 30px;
+}
+
+.azul {
+  color: #1a73e8;
+}
+
+.conteudo p {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.rodape {
+  border-top: 1px solid #eee;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+.rodape a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #1a73e8;
+  font-size: 14px;
+}
